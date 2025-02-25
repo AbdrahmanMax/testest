@@ -1,0 +1,29 @@
+.container {
+    margin: auto;
+    width: 500px;
+    height: auto;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.satu {
+    background-color: aqua;
+    line-height: 100px;
+    margin-top: 10px;
+}
+.dua {
+    background-color: aqua;
+    line-height: 100px;
+    margin-top: 10px;
+}
+.tiga {
+    background-color: aqua;
+    line-height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
